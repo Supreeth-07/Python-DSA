@@ -1,0 +1,15 @@
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
+conda create -p venv python=3.11 -y
+conda activate "D:\Python Projects\5-Python_DSA\venv"
+
+.gitignore
+
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Supreeth-07/ML-Projects.git
+git push origin master
+
+git push -u origin main
+
+* * * * * * * - - - - - - - - - - - - - - - - - - - - - * * * * * * * 
